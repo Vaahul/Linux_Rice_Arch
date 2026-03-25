@@ -31,6 +31,10 @@ Copy the files into your local configuration directory:
 
 <img width="1919" height="1199" alt="SS1" src="https://github.com/user-attachments/assets/71eea666-b2f9-434e-9da3-938c0942e1c8" /
 
+<img width="1919" height="1199" alt="SS2" src="https://github.com/user-attachments/assets/4d1d90f2-a319-417a-aa9f-498db4e62b5c" />
+
+
+
 
 ## Notes
 
