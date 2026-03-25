@@ -1,2 +1,35 @@
 # Linux_Rice_Arch
 LINUX Rice - Arch-KDEPlasma
+
+# KDE Minimal Configuration
+
+A simple KDE Plasma setup with minor visual and layout adjustments.
+
+## Overview
+
+This repository contains a small set of configuration files for KDE and GTK.
+Only essential changes are included.
+
+## Environment
+
+* Desktop Environment: KDE Plasma
+* Distribution: Arch Linux
+* GTK Theme: Orchis
+* Icons: Breeze
+
+## Contents
+
+* `kde/` – KDE configuration files
+* `gtk/` – GTK 3 and GTK 4 configuration
+
+## Installation
+
+Copy the files into your local configuration directory:
+
+
+## Notes
+
+* Designed for a specific system setup; results may vary
+* Some settings depend on installed themes and icons
+* No additional scripts or automation included
+
