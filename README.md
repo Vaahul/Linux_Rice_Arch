@@ -14,6 +14,7 @@ Only essential changes are included.
 
 * Desktop Environment: KDE Plasma
 * Distribution: Arch Linux
+
 * GTK Theme: Orchis
 * Icons: Breeze
 
@@ -25,6 +26,10 @@ Only essential changes are included.
 ## Installation
 
 Copy the files into your local configuration directory:
+
+## Screenshots
+
+<img width="1919" height="1199" alt="SS1" src="https://github.com/user-attachments/assets/71eea666-b2f9-434e-9da3-938c0942e1c8" /
 
 
 ## Notes
